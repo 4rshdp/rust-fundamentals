@@ -1,5 +1,5 @@
 fn main() {
-    let proceed = false;
+    let proceed = true;
     if proceed {
         println!("Proceeding");
     } else {
